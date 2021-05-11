@@ -1,0 +1,24 @@
+{
+  "name": "landing-page-sass",
+  "version": "1.0.0",
+  "description": "Creation of a landing page to improve my sass and gsap skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guillonaxel0714/Landing-page-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guillonaxel0714/Landing-page-sass/issues"
+  },
+  "homepage": "https://github.com/Guillonaxel0714/Landing-page-sass#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}

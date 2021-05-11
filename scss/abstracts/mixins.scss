@@ -1,0 +1,22 @@
+@import './variables.scss';
+
+@mixin flex-row {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+@mixin flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@mixin line {
+    content: '';
+    background-color: $main-color;
+    position: absolute;
+    width: 30px;
+    height: 1px;
+}
